@@ -2,8 +2,7 @@
 layout: "archive"
 title: "Portfolio"
 permalink: "/portfolio/"
-header: 
-    image: "/image/banner.png"
+author_profile: true
 ---
 
 
