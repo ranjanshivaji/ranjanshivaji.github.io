@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Ranjan Shivaji"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/image/avatar.jepg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web Developer, E&C Engineer"
   location         : "Pune, Maarashtra"
   email            :
