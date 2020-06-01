@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Portfolio"
+title: "Projects"
 permalink: "/portfolio/"
 author_profile: true
 tags: [Javascript]
