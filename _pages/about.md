@@ -6,4 +6,12 @@ author_profile: true
 
 
 
-loremLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop p
+Hello, welcome to Ranjan's portfolio website!
+
+He is a E&C Enginnering Student. He comes from Pune, Maharashtra. He goes to Pune University for his Bachelor's Degree. As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic. 
+
+In his spare time, he loves jogging, woking in the Formula Student Team Wokshop, building Racing Cars, Going to racing Tracks and compete in national championships and watching Quentin Tarantino movies.
+
+He is now gaining skills with latest tecnologies to be an advanced full stack Javascript Developer. He will be graduating in June, 2021 and will be actively looking for software engineer jobs. Leave him a message or connect him on LinkedIn if you see a good fit :)
+
+Cheers!
